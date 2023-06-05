@@ -1,4 +1,4 @@
-package Ex1;
+package Strategy.Ex1;
 
 public class TaekwonV extends Robot{
     public TaekwonV(String name){

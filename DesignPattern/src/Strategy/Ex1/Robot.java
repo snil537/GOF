@@ -1,4 +1,4 @@
-package Ex1;
+package Strategy.Ex1;
 
 public abstract class Robot {
     private String name;

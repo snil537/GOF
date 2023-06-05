@@ -1,4 +1,4 @@
-package Ex1;
+package Strategy.Ex1;
 
 public class Atom extends Robot{
     public Atom(String name){
